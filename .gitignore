@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Environments and editors
+.venv/
+venv/
+.idea/
+.vscode/
+
+# Training artefacts and local data
+Dataset/
+datasets/
+data/
+snapshot/
+checkpoints/
+results/
+res/
+logs/
+runs/
+*.pth
+*.pt
+*.ckpt
+*.onnx
+*.log
+
+# Operating systems
+.DS_Store
+Thumbs.db
+
